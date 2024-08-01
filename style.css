@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(70, 70, 70);
+  }
+  h1 {
+  color: white;
+  text-align: center;
+  }
+  p {
+    color: white;
+    font-size: 52;
+    font-style: Roboto;
+  }
